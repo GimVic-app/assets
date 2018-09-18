@@ -1,2 +1,2 @@
-# assets
-Assets used in application
+# Assets
+Assets used in application.
